@@ -5,15 +5,15 @@ List with open Call for Papers!
 ## Brazil
 
 [**AWSome Women Community Summit Brasil 2024**](https://www.awswomencommunitybrasil.com/)  
-[Call for papers](https://sessionize.com/awsome-women-community-summit-brasil-2024/)  
-9 March, 2024  
-belo Horizonte (MG)
+[Call for papers](https://sessionize.com/awsome-women-community-summit-brasil-2024/) | December 01, 2023 - January 15, 2024   
+Event Date: 9 March, 2024  
+Location: Belo Horizonte (MG)
 
 ### TDC 2024
 [**The Developer's Conference 2024**](https://thedevconf.com/tdc/2024/summit-sao-paulo/)  
-[Call for papers](https://thedevconf.com/call4papers)  
-26 to 27 March, 2024  
-São Paulo (SP) | Hybrid (On-line and In-Person)
+[Call for papers](https://thedevconf.com/call4papers) | December 22, 2023 - February 05, 2024
+Event Date: 26 to 27 March, 2024  
+Location: São Paulo (SP) | Hybrid (On-line and In-Person)
 
 ## 👩 Author
 
