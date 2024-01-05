@@ -1,7 +1,7 @@
 # Call For Papers | Call 4 Papers | CFP | C4P 
 
 <p align="center">
-  <a><img src="https://github.com/laisfrigerio/call-for-papers/assets/20709086/5ab221c9-d889-4f9c-87d6-81c3b0b7c442" alt="Repository cover: Call For Papers" title="Repository cover: Call For Papers"></a>
+  <a><img src="https://github.com/laisfrigerio/call-for-papers/assets/20709086/89a959b4-5f07-4539-b062-33da7e516859" alt="Repository cover: Call For Papers" title="Repository cover: Call For Papers"></a>
 </p>
 
 List with open Call for Papers!
