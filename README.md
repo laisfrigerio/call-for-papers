@@ -1,4 +1,4 @@
-# Call For Papers | Call 4 Papers | CFC | C4P 
+# Call For Papers | Call 4 Papers | CFP | C4P 
 
 List with open Call for Papers!
 
