@@ -12,7 +12,9 @@ List with open Call for Papers!
 | :---         |    ---      |     ---     |     ---    |          ---: |
 | [**AWSome Women Community Summit Brasil 2024**](https://www.awswomencommunitybrasil.com/)   | 9 March, 2024           | Belo Horizonte (MG)                               | [Call for papers](https://sessionize.com/awsome-women-community-summit-brasil-2024/) | December 01, 2023 - <br>January 15, 2024  
 | [**NodeBR - Quebrei produção! E agora?**](https://www.instagram.com/node_br/)               | 26 January              | São Paulo (SP)                                    | [Call for papers](https://sessionize.com/nodebr-67-quebrei-producao-e-agora/)        | January 3, 2024 - <br>January 14, 2024 
-| [**The Developer's Conference 2024**](https://thedevconf.com/tdc/2024/summit-sao-paulo/)    | 26 to 27 March, 2024    | São Paulo (SP) <br>Hybrid (On-line and In-Person)   | [Call for papers](https://thedevconf.com/call4papers)                                | December 22, 2023 - <br>February 05, 2024                 
+| [**The Developer's Conference 2024**](https://thedevconf.com/tdc/2024/summit-sao-paulo/)    | 26 to 27 March, 2024    | São Paulo (SP) <br>Hybrid (On-line and In-Person)   | [Call for papers](https://thedevconf.com/call4papers)                                | December 22, 2023 - <br>February 05, 2024 
+| [**Congresso de Tecnologia da SET EXPO 2024**](https://set.org.br/events/setexpo/call-for-papers/)    | 19 August, 2024    | São Paulo (SP)  | [Call for papers](https://set.org.br/events/setexpo/call-for-papers/)                                | May 31, 2024 - <br>August 19, 2024   
+| [**Python Nordeste 2024**](https://2024.pythonnordeste.org/)    | 09, 10 e 11 August, 2024    | Natal (RN)  | [Call for papers](https://2024.pythonnordeste.org/)                                | August 09, 2024  - <br>August 11, 2024                     
 
 ## 👩 Author
 
